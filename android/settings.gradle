@@ -1,0 +1,3 @@
+rootProject.name = 'Infoprovas'
+
+include ':app'
