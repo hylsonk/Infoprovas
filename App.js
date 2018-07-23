@@ -10,7 +10,7 @@ import React, { Component } from 'react';
 import { } from 'react-native';
 import Routes from './src/Router';
 
-// Ajustes para puxar as rotas para outras telas do app
+// Ajustes para puxar as rotas para outras
 export default class App extends Component {
   render() {
     return (

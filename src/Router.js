@@ -2,7 +2,7 @@ import React from 'react';
 import { Router, Scene } from 'react-native-router-flux';
 
 // Importar aqui outras telas
-import Main from './components/Main'
+import Main from './screens/Main'
 
 
 // Adicionar rotas para as telas
